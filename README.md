@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&background=1A1B2700&center=true&vCenter=true&width=500&lines=Hi!+I'm+Franco+Kopach+👋;Systems+Engineer+in+training;Web+%26+Python+Developer;Rust+%26+Cybersecurity+Enthusiast;Looking+for+new+challenges...🚀" alt="Typing SVG - Hi! I'm Franco Kopach" /></a>
-  <p>2nd-year Systems Engineering student passionate about technology and development.</p>
-  <p>Actively seeking an internship to apply my knowledge, gain experience, and contribute to challenging projects. <br/>Committed to continuous learning and ready for new challenges!</p>
+  <p>As a 2nd-year Systems Engineering student, I'm fueled by a passion for technology and development.</p>
+  <p>I'm actively seeking an internship to apply my skills, gain hands-on experience, and contribute to impactful projects. <br/>My commitment to continuous learning drives me to embrace new challenges head-on!</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=francokoop&label=PROFILE+VIEWS&color=00FF00&style=flat-square" alt="Profile Views Counter" />
   </p>
