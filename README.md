@@ -38,7 +38,6 @@ Aquí puedes listar las tecnologías que manejas. Usar iconos puede hacerlo más
       <ul>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="16" height="16" alt="Node.js" /> Node.js (Básico)</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16" height="16" alt="React" /> React (o el que uses, ej: Angular, Vue)</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="16" height="16" alt="Django" /> Django / Flask (si aplica para Python)</li>
         </ul>
       <strong>Bases de Datos:</strong>
       <ul>
